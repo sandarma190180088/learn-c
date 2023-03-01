@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/func.dir/func.c.o -o func 

@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/var-size.dir/var-size.c.o" -o var-size 

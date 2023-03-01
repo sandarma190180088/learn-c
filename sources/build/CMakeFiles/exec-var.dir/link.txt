@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/exec-var.dir/exec-var.c.o" -o exec-var 

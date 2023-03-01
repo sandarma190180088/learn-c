@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic "CMakeFiles/ternary-op.dir/ternary-op.c.o" -o ternary-op 

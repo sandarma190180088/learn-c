@@ -1,0 +1,7 @@
+/home/darma/myrepo/learn-c/c-programming/sources/build/CMakeFiles/hello.dir
+/home/darma/myrepo/learn-c/c-programming/sources/build/CMakeFiles/exec-var.dir
+/home/darma/myrepo/learn-c/c-programming/sources/build/CMakeFiles/var-size.dir
+/home/darma/myrepo/learn-c/c-programming/sources/build/CMakeFiles/func.dir
+/home/darma/myrepo/learn-c/c-programming/sources/build/CMakeFiles/ternary-op.dir
+/home/darma/myrepo/learn-c/c-programming/sources/build/CMakeFiles/edit_cache.dir
+/home/darma/myrepo/learn-c/c-programming/sources/build/CMakeFiles/rebuild_cache.dir
